@@ -1,0 +1,4 @@
+fecha,origen,destino,asientosdisponibles,pasajerostransportados,puntualidad
+2025-09-01,LIM,SCL,180,160,true
+2025-09-02,LIM,MIA,200,190,false
+2025-09-03,SCL,GRU,150,140,true
