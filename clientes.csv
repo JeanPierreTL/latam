@@ -1,0 +1,4 @@
+clienteid,nombre,espremium,esrecurrente
+1,Juan Perez,false,true
+2,Maria Lopez,true,true
+3,Carlos Diaz,false,false
