@@ -1,0 +1,4 @@
+encuestaid,clienteid,tipo,puntaje,fecha
+1,1,NPS,9,2025-09-01
+2,2,CSAT,8,2025-09-01
+3,3,NPS,6,2025-09-02
